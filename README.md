@@ -8,8 +8,8 @@
 ### Projects
 - [BimbelBeta](https://bimbelbeta.com/)
 - [Quranic Personality Test](https://quranic-personality-test.vercel.app/)
-- [Makomti](https://makomti.my.id/) `2025`
-- [Academy Omahti](https://academy.omahti.web.id/) `2025`
+- [Open Recruitment Himakom dan OmahTi 2025](https://makomti.my.id/)
+- [OmahTi Academy 2025](https://academy.omahti.web.id/)
 
 ### Currently Learning
 - PostgreSQL
